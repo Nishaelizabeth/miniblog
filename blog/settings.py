@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-xux@aa_=2!paq(tl5td%myg*#cunx&6apfp5_emm02r560a6xt
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['miniblog-kgaq.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['miniblog-dnxa.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
